@@ -19,6 +19,7 @@
     "url": "https://github.com/tincann/jarrit-node/issues"
   },
   "dependencies": {
-    "config": "^1.10.0"
+    "config": "^1.10.0",
+    "rekuire": "^0.1.9"
   }
 }
